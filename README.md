@@ -1,7 +1,7 @@
 <h3 align="left">Current Projects:</h3>
 - I'm currently working on [Shambles Haxx](https://discord.gg/uVWwHxqXgj)
 
-- How to reach me **office#6989**
+- My discord **office#6989**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
