@@ -1,5 +1,5 @@
 <h3 align="left">Current Projects:</h3>
-- I'm currently working on [Shambles Haxx](https://discord.gg/uVWwHxqXgj)
+- I'm currently working on Shambles Haxx - https://discord.gg/uVWwHxqXgj
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
