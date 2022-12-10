@@ -1,3 +1,4 @@
+<h3 align="left">Current Projects:</h3>
 - I'm currently working on [Shambles Haxx](https://discord.gg/uVWwHxqXgj)
 
 - How to reach me **office#6989**
